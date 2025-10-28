@@ -9,6 +9,6 @@ L’obiettivo principale è consolidare le competenze relative agli array e prep
 - Eseguire operazioni sugli array (aggiunta, rimozione, ricerca, trasformazione)  
 - Utilizzare metodi di array
 
-## 🧠 Tecnologie utilizzate  
+## Tecnologie utilizzate  
 - HTML5
 - JavaScript (vanilla)
